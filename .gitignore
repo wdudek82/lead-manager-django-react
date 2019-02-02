@@ -1,0 +1,9 @@
+node_modules/
+
+/.venv/
+.idea/
+/lead-manager-django-react.iml
+
+*.py[co]
+
+/leadmanager/frontend/static/frontend/
